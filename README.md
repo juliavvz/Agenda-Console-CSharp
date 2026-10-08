@@ -32,15 +32,6 @@ C#
 Console Application
 Programação Orientada a Objetos
 Listas (List<T>)
-## Estrutura do projeto
-Agenda-Console-CSharp/
-│
-├── Data.cs
-├── Telefone.cs
-├── Contato.cs
-├── Contatos.cs
-├── Program.cs
-└── README.md
 
 ## Classes
 Data
